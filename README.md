@@ -1,5 +1,3 @@
-# hotel-booking-sql-analysis
-
 # Hotel Booking Analysis (MySQL)
 
 ## Project Overview
